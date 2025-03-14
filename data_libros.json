@@ -1,0 +1,30 @@
+{
+    "libros": [
+        {
+            "titulo": "To Kill a Mockingbird",
+            "autor": "Harper Lee",
+            "anyo": 1960,
+            "paginas": 280
+        },
+        {
+            "titulo": "The Hunger Games",
+            "autor": "Collins",
+            "anyo": 2010,
+            "paginas": "500"
+        },
+        {
+            "titulo": "The Hobbit",
+            "autor": "JRR Tolkien",
+            "anyo": 1930,
+            "paginas": "300"
+        }
+    ],
+    "revistas": [
+        {
+            "titulo": "Times",
+            "autor": "John Smith",
+            "anyo": 2010,
+            "tematica": "Political"
+        }
+    ]
+}

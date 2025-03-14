@@ -1,0 +1,77 @@
+body {
+    background-color: rgb(245, 239, 231);
+    padding:2vh 3vw;
+}
+
+.form,
+.libros,
+.revistas {
+    margin-left: 1vw;
+    margin-bottom: 2vh;
+    background-color: rgb(216, 196, 182);
+    width: 80vw;
+    min-height: fit-content;
+    border-style: solid;
+    border-color: rgb(216, 196, 182);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+.form label {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+    letter-spacing: 1px;
+}
+
+.form input {
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 5px;
+    border-style: none;
+    height: 3vh;
+    max-height: 26px;
+    width: 20vw;
+}
+
+#submit,
+.home,
+.revista-bttn,
+.libro-bttn {
+    font-size: 18px;
+    padding: 6px 10px;
+    margin-top: 1vh;
+    margin-bottom: 2vh;
+    margin-left: 1vw;
+    border-radius: 4px;
+    border-style: none;
+    background-color: rgb(62, 88, 121);
+    color: rgb(255, 255, 255);
+    letter-spacing: 2px;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(22, 53, 85);
+}
+
+.eliminar {
+    font-size: 14px;
+    padding: 6px 10px;
+    margin-top: 1vh;
+    margin-bottom: 3vh;
+    margin-left: 1vw;
+    border-radius: 4px;
+    border-style: none;
+    background-color: rgb(62, 88, 121);
+    color: rgb(255, 255, 255);
+    letter-spacing: 1.5px;
+}
+
+.libros, 
+.revistas {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
