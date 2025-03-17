@@ -7,14 +7,32 @@
             "paginas": 280
         },
         {
-            "titulo": "The Hunger Games",
-            "autor": "Collins",
-            "anyo": 2010,
+            "titulo": "The Hobbit",
+            "autor": "JRR Tolkien",
+            "anyo": 1930,
+            "paginas": "300"
+        },
+        {
+            "titulo": "Fellowship of the Ring",
+            "autor": "JRR Tolkien",
+            "anyo": 1950,
+            "paginas": "400"
+        },
+        {
+            "titulo": "The Two Towers",
+            "autor": "JRR Tolkien",
+            "anyo": 1951,
+            "paginas": "450"
+        },
+        {
+            "titulo": "Return of the King",
+            "autor": "JRR Tolkien",
+            "anyo": 1952,
             "paginas": "500"
         },
         {
-            "titulo": "The Hobbit",
-            "autor": "JRR Tolkien",
+            "titulo": "The Great Gatsby",
+            "autor": "Fitzgerald",
             "anyo": 1930,
             "paginas": "300"
         }
@@ -24,6 +42,36 @@
             "titulo": "Times",
             "autor": "John Smith",
             "anyo": 2010,
+            "tematica": "Political"
+        },
+        {
+            "titulo": "ABC",
+            "autor": "JRR Tolkien",
+            "anyo": 2341,
+            "tematica": "Political"
+        },
+        {
+            "titulo": "wer",
+            "autor": "b",
+            "anyo": 1234,
+            "tematica": "Political"
+        },
+        {
+            "titulo": "fsdfgsd",
+            "autor": "Fitzgerald",
+            "anyo": 2435,
+            "tematica": "Political"
+        },
+        {
+            "titulo": "fgsdfg",
+            "autor": "Fitzgerald",
+            "anyo": 2345,
+            "tematica": "Nature"
+        },
+        {
+            "titulo": "sdfgsdfg",
+            "autor": "author",
+            "anyo": 53453,
             "tematica": "Political"
         }
     ]
